@@ -2,7 +2,7 @@
 O objetivo do repositorio é facilitar a busca e compartilhar comandos para a aplicação de protocos no sistema operacional cisco IOS. Para isso devemos seguir algumas regras para manter o padrão e facilitar a busca utilizando o comando CTRL+F.
 
 # CISCO_IOS_COMANDOS REGRAS DE EDIÇÃO:
-;
+
 - **Todas modificaçoes no diretorio deve ser feito um comentario expecificando**
 
 - **Todos topicos devem começar com caracteres maiores EX:**
